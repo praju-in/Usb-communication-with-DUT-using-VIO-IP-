@@ -9,4 +9,4 @@ Virtual Outputs: These act like Switches or Buttons on your screen. You can clic
 
 I tested it on Basys 3 FPGA board with my simple design which take 104 bits input and show 16 bit from input to output.
 
-For more information about implementation step bu step check out my blog: 
+For more information about implementation step bu step check out my blog: https://medium.com/@pssaindane2018/usb-communication-with-fpga-using-vio-ip-a585cfbbacd4
